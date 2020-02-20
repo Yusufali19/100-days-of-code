@@ -28,4 +28,14 @@
 
 **Link to work:** [Loan Calculator App](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-2-19-Feb-2020)
 
+### Day 3: February 20, 2020
+
+**Today's Progress**: Started a Number Guesser game project. Designed the UI using HTML and CSS. 
+
+**Thoughts:** Learned new ways to style using CSS and learned more about how flexbox works.
+
+**Link to work:** [Number Guesser Game](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-3-20-Feb-2020)
+
+**Link to project:** [Number Guesser Game](https://yusufali19.github.io/Number-Guesser/)
+
 
