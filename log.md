@@ -9,11 +9,23 @@
 **Link to work:** [Loan Calculator App](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-0-17-Feb-2020)
 
 
+
 ### Day 1: February 18, 2020
 
 **Today's Progress**: Did JS section of Loan Calculator project, but still got some work to do and fix bugs.
 
 **Thoughts:** Nice day, learned some new JS methods and passing array as an argument to function.
 
-**Link to work:** [Loan Calculator App](hhttps://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-1-18-Feb-2020)
+**Link to work:** [Loan Calculator App](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-1-18-Feb-2020)
+
+
+
+### Day 2: February 19, 2020
+
+**Today's Progress**: Completed the JS section and fixed some bugs in the project and hosted it on github.
+
+**Thoughts:** Learned new JS string methods, and using functions wisely.
+
+**Link to work:** [Loan Calculator App](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-2-19-Feb-2020)
+
 
