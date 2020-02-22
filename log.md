@@ -51,3 +51,15 @@
 **Link to work:** [Number Guesser Game](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-4-21-Feb-2020)
 
 **Link to project:** [Number Guesser Game](https://yusufali19.github.io/Number-Guesser/)
+
+
+
+### Day 5: February 22, 2020
+
+**Today's Progress**: Worked with media queries in CSS to make the project responsive.
+
+**Thoughts:** CSS is quite time taking, but still learned alot of things in CSS and it will surely help me in the future projects.
+
+**Link to work:** [Number Guesser Game](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-5-22-Feb-2020)
+
+**Link to project:** [Number Guesser Game](https://yusufali19.github.io/Number-Guesser/)
