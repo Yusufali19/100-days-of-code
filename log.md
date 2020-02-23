@@ -63,3 +63,16 @@
 **Link to work:** [Number Guesser Game](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-5-22-Feb-2020)
 
 **Link to project:** [Number Guesser Game](https://yusufali19.github.io/Number-Guesser/)
+
+
+
+### Day 6: February 23, 2020
+
+**Today's Progress**: Refactored Javascript code and add some more functionality to the project, like showing error when user tries to submit his guess without entering the guess in input and then removing that error when input is focused.
+
+**Thoughts:** Learned to manage the code and in these days I have learned many new things and they are really helpfull.
+
+**Link to work:** [Number Guesser Game](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-6-23-Feb-2020)
+
+**Link to project:** [Number Guesser Game](https://yusufali19.github.io/Number-Guesser/)
+
