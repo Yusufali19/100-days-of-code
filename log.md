@@ -76,3 +76,16 @@
 
 **Link to project:** [Number Guesser Game](https://yusufali19.github.io/Number-Guesser/)
 
+
+
+### Day 7: February 24, 2020
+
+**Today's Progress**: Added much more lines of code in JS and completed the Javascript section of the project. Now the users can play the game and check their guessing capabilities. Still it's not fully responsive, will work on making it fully responsive tommorow.
+
+**Thoughts:** Worked much more with DOM and understood how to hide and show elements and style them based on user actions.
+
+**Link to work:** [Number Guesser Game](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-7-24-Feb-2020)
+
+**Link to project:** [Number Guesser Game](https://yusufali19.github.io/Number-Guesser/)
+
+
