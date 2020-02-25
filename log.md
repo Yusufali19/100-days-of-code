@@ -89,3 +89,14 @@
 **Link to project:** [Number Guesser Game](https://yusufali19.github.io/Number-Guesser/)
 
 
+
+### Day 8: February 25, 2020
+
+**Today's Progress**: Practiced some array methods, tried different examples to understand them.
+
+**Thoughts:** Array methods can get very complicated sometimes but they are very userfull and learned some of them today and also practiced them to understant them better.
+
+**Link to work:** [Number Guesser Game](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-8-25-Feb-2020)
+
+
+
