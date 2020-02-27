@@ -100,3 +100,12 @@
 
 
 
+### Day 9: February 27, 2020
+
+**Today's Progress**: Started a landing page project and completed some layout and styles. 
+
+**Thoughts:** Trying to understand the flexbox and grid system and this project will help me understand that better as I'll be using flexbox and grid for layout.
+
+**Link to work:** [Code file](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-9-27-Feb-2020)
+
+
