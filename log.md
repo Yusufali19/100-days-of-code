@@ -109,3 +109,13 @@
 **Link to work:** [Code file](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-9-27-Feb-2020)
 
 
+
+### Day 10: February 29, 2020
+
+**Today's Progress**: Practced closures and tried to understan how this keyword works.
+
+**Thoughts:** Finally understood how closures actually work and how this keyword references the object.
+
+**Link to work:** [Code file](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-10-29-Feb-2020)
+
+
