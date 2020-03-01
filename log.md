@@ -112,10 +112,18 @@
 
 ### Day 10: February 29, 2020
 
-**Today's Progress**: Practced closures and tried to understan how this keyword works.
+**Today's Progress**: Practiced closures and tried to understan how this keyword works.
 
 **Thoughts:** Finally understood how closures actually work and how this keyword references the object.
 
 **Link to work:** [Code file](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-10-29-Feb-2020)
 
+
+### Day 11: March 1, 2020
+
+**Today's Progress**: Learned call, apply and bind methods, constructor functions and JSON.
+
+**Thoughts:** Todaay's session was great as I learned completly new things and will continue my journey.
+
+**Link to work:** [Code file](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-11-1-Mar-2020)
 
