@@ -127,3 +127,13 @@
 
 **Link to work:** [Code file](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-11-1-Mar-2020)
 
+
+
+### Day 12: March 2, 2020
+
+**Today's Progress**: Today's class was all about classes, inheritance and extending classes.
+
+**Thoughts:** classes are really very powerfull and useful practiced few exapmles and now understand them better.
+
+**Link to work:** [Code file](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-12-2-Mar-2020)
+
