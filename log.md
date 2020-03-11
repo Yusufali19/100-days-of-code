@@ -137,3 +137,12 @@
 
 **Link to work:** [Code file](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-12-2-Mar-2020)
 
+
+
+### Day 16: March 2, 2020
+
+**Today's Progress**: Started a Block Game Project.
+
+**Thoughts:** Finally got started with HTML5 Canvas and working with animation using JS.
+
+**Link to work:** [Code file](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-16-11-Mar-2020)
