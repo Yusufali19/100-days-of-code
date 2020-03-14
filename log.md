@@ -146,3 +146,14 @@
 **Thoughts:** Finally got started with HTML5 Canvas and working with animation using JS.
 
 **Link to work:** [Code file](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-16-11-Mar-2020)
+
+
+
+### Day 17: March 14, 2020
+
+**Today's Progress**: Created few bash scripts.
+
+**Thoughts:** Learning shell scripting is great, althought syntax is quite complicated but it's really helpful in avoiding repetitive commands.
+
+**Link to work:** [Code file](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-18-14-Mar-2020)
+
