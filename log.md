@@ -157,3 +157,13 @@
 
 **Link to work:** [Code file](https://github.com/Yusufali19/100-Days-Of-Code-Files/tree/master/Day-18-14-Mar-2020)
 
+
+
+### Day 18: April 6, 2020
+
+**Today's Progress**: Stated learning react and started a github card project using react.
+
+**Thoughts:** Really enjoyed learning react, it's a really great library. Although I've just started but I have a feeling that this will be a really great add on to my profile.
+
+**Link to work:** [Code file](https://github.com/Yusufali19/)
+
